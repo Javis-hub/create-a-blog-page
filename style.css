@@ -409,6 +409,8 @@ input:active{
 }
 
 .socials a i:hover{
+    color: #000;
+    background-color: #d8d8d8;
     transform: scale(1.16);
 }
 
